@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consumo de combustivel</string>
+    <string name="insira_os_litros">Insira os litros</string>
+    <string name="insira_os_km_percorridos">Insira os km percorridos</string>
+    <string name="km_litro">Km/litro</string>
+    <string name="consumo_aos_100km">Consumo aos 100km</string>
+</resources>
